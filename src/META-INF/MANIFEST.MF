@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: mehmetcodes
+Class-Path: HooverDriver.jar
+Main-Class: com.github.mehmetcodes.HooverDriver
