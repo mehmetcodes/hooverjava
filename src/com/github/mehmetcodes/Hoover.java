@@ -62,7 +62,7 @@ public class Hoover{
   /**
   * Instructs hoover to move ascending along the y axis
   * If a move is valid, hoover will check for dirt
-  * Hoover will not move if the x coordinate exceeds the boundary, dimensions
+  * Hoover will not move if the y coordinate exceeds the boundary, dimensions
   * have not yet been set or the start coordinates have not been set.
   *
   * @return int value 1 if hoover moved, 0 if not
@@ -85,7 +85,7 @@ public class Hoover{
   /**
   * Instructs hoover to move descending along the y axis
   * If a move is valid, hoover will check for dirt
-  * Hoover will not move if the x coordinate exceeds the boundary, dimensions
+  * Hoover will not move if the y coordinate exceeds the boundary, dimensions
   * have not yet been set or the start coordinates have not been set.
   *
   * @return int value 1 if hoover moved, 0 if not
